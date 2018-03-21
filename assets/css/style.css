@@ -1,0 +1,53 @@
+
+
+body {
+   
+    background-image: url(../images/bkgimg.jpg);
+    font-family: 'Helvetica'
+}
+
+
+.question-container {
+    border: 2px dashed orange;
+    background-color: rgb(0, 217, 255);
+    margin: 20px 0;
+    padding: 0 40px;
+    
+}
+
+#start {
+    margin-top: 45px;
+}
+
+.header {
+    font-size: 60px;
+    font-style: oblique;
+    color: brown;
+    margin-top: 80px;
+
+}
+
+
+h2 {
+    font-size: 25px;
+}
+
+#timer {
+    margin-top: auto;;
+}
+
+#question {
+    margin-top: auto;;
+}
+
+.possible-answer {
+    font-size: 20px;
+}
+
+.possible-answer:hover {
+    font-weight: lighter;
+    cursor: pointer;
+}
+.results {
+    font-size: 16px;
+}
